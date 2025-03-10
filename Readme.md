@@ -85,8 +85,6 @@ Sends a message to the assistant.
 }
 ```
 
-## Example Client
-See `client_example.py` for a simple command-line client example.
 
 ## Implementation Notes
 
