@@ -103,4 +103,4 @@ See `client_example.py` for a simple command-line client example.
 **Version:** 1.0.0
 
 ## 📸 Screenshot
-![Conversation screenshot](https://raw.githubusercontent.com/ModelMaestro-743/Brainlox-Course-Assistant-API/master/image/conversation_ss.png)
+![Conversation screenshot](https://github.com/ModelMaestro-743/Brainlox-Course-Assistant-API/blob/master/image/Conversation%20SS.png)
