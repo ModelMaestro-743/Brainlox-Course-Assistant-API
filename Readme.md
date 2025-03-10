@@ -103,4 +103,4 @@ See `client_example.py` for a simple command-line client example.
 **Version:** 1.0.0
 
 ## 📸 Screenshot
-![Conversation screenshot](image\Conversation SS.png)
+![Conversation screenshot](image/Conversation SS.png)
